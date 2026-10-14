@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\student\source\repos\Лаб4\Source.c(11,2): warning C4013: Task3: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\student\source\repos\Лаб4\Source.c(24,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "double"
+C:\Users\student\source\repos\Лаб4\Source.c(58,1): warning C4716: Task1: должна возвращать значение
+  Лаб4.vcxproj -> C:\Users\student\source\repos\Лаб4\x64\Debug\Лаб4.exe
